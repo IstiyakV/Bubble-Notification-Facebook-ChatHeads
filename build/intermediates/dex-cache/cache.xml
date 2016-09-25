@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Android Studio\Github Sample\MyApplication3\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\Android Studio\Github Sample\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_ae06f251707456e1fb5d1b69873968e01a69f3dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android Studio\Github Sample\MyApplication3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="F:\Android Studio\Github Sample\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_9fd375cd19feff4881b899a80328620507b27904\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android Studio\Github Sample\MyApplication3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="83a6a1c2c22d7289d35e3b94b0b151cadac76b95">
+        <dex dex="F:\Android Studio\Github Sample\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9b416f30af1b3416eb0fcffd89abfe0983027680\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ISTIYAK\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="F:\Android Studio\Github Sample\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_40247e539e933a068dd8acb8304af1c78c8632ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android Studio\Github Sample\MyApplication3\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\Android Studio\Github Sample\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_18f053cdefa66fdc873d15a24341b265cac75a9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android Studio\Github Sample\MyApplication3\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="F:\Android Studio\Github Sample\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_1cf57cca7892eb6630be7b53088570d1fb34eee0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android Studio\Github Sample\MyApplication3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="F:\Android Studio\Github Sample\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_b4aa373053cf9482b96b5fff8142d6781d045e81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android Studio\Github Sample\MyApplication3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="211688f1bd7fe1102d1f5be500c4ae0c53b9f112">
+        <dex dex="F:\Android Studio\Github Sample\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_46eedd7f79b569c2f5af95e06951c237f05e96c5\classes.dex" />
+    </item>
+
+</items>
